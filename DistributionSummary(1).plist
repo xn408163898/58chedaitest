@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>58chedai.ipa</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>url</key>
+					<string>http://www.58chedai.com/app/ios.ipa</string>
+					<key>kind</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>46ABD4BF004BFEC6E08DE7491E881DAD253EAB76</string>
+				<key>dateExpires</key>
+				<string>2019/6/15</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>LSWG46BELQ.com.58chedai.58chedaiAdHoc</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>LSWG46BELQ</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>LSWG46BELQ.com.58chedai.58chedaiAdHoc</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>58chedai.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b90a1e04-e364-4f0f-b996-764b9d64142f</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.58chedai.58chedaiAdHoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>LSWG46BELQ</string>
+				<key>name</key>
+				<string>Hunan Xingzhan Investment Co., Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
